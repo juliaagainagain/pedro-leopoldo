@@ -1,3 +1,4 @@
+# Pedro Leopoldo — Análise de Destinos Turísticos
 Este repositório reúne análises e visualizações produzidas a partir de dados públicos sobre os principais destinos turísticos de Pedro Leopoldo - MG, com foco em percepção turística, sentimentos e comportamento dos visitantes.
 
 O projeto foi desenvolvido para fins acadêmicos na disciplina de **Marketing em Destinos Turísticos**, ministrada pela professora **Ana Paula**, durante o **primeiro semestre de 2026**.
